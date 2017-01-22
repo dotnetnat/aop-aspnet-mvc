@@ -20,7 +20,7 @@ namespace WebMvc.Installers
                  Component
                  .For<IUserService>()
                  .ImplementedBy<UserService>()
-                 //.Interceptors(InterceptorReference.ForType<LoggingAspect>()).Anywhere
+                 .Interceptors(InterceptorReference.ForType<LoggingAspect>()).Anywhere
                  .LifestyleTransient());
 
         }
