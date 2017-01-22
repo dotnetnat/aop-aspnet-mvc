@@ -160,6 +160,7 @@
     </Compile>
     <Compile Include="Installers\ControllersInstaller.cs" />
     <Compile Include="Installers\ServiceInstaller.cs" />
+    <Compile Include="Interceptors\LoggingAspect.cs" />
     <Compile Include="Interfaces\IUserService.cs" />
     <Compile Include="Plumbing\WindsorControllerFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

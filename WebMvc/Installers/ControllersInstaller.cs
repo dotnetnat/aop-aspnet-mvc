@@ -2,6 +2,7 @@
 using Castle.MicroKernel.Registration;
 using Castle.MicroKernel.SubSystems.Configuration;
 using Castle.Windsor;
+using WebMvc.Interceptors;
 using WebMvc.Plumbing;
 
 namespace WebMvc.Installers
@@ -10,12 +11,15 @@ namespace WebMvc.Installers
     {
         public void Install(IWindsorContainer container, IConfigurationStore store)
         {
+            container.Register(Component.For<LoggingAspect>());
+
             container.Register(
                 Classes.
                     FromThisAssembly().
                     BasedOn<IController>().
                     If(c => c.Name.EndsWith("Controller")).
-                    LifestyleTransient());
+                    LifestyleTransient().
+                    Configure((c => c.LifeStyle.Transient.Interceptors<LoggingAspect>())));
 
             ControllerBuilder.Current.SetControllerFactory(new WindsorControllerFactory(container));
         }
