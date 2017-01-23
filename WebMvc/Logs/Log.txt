@@ -1,140 +1,106 @@
-2017-01-22 15:45:55.5992|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
-2017-01-22 15:45:55.6092|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
-2017-01-22 15:45:55.6232|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
-2017-01-22 15:45:55.6232|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
-2017-01-22 15:45:55.6232|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
-2017-01-22 15:45:55.6232|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
-2017-01-22 15:45:55.6402|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
-2017-01-22 15:45:55.6402|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
-2017-01-22 15:45:55.6542|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
-2017-01-22 15:45:55.6542|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
-2017-01-22 15:45:55.6942|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
-2017-01-22 15:45:55.6942|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
-2017-01-22 15:45:55.7053|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
-2017-01-22 15:45:55.7053|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
-2017-01-22 15:45:55.7208|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
-2017-01-22 15:45:55.7208|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
-2017-01-22 15:45:55.7328|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
-2017-01-22 15:45:55.7328|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
-2017-01-22 15:45:55.7478|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
-2017-01-22 15:45:55.7478|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
-2017-01-22 15:45:55.7808|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Entering method [Login] with paramters: 
-2017-01-22 15:45:55.7808|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Leaving method [Login] with return value True
-2017-01-22 15:45:55.8019|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
-2017-01-22 15:45:55.8119|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
-2017-01-22 15:45:55.8259|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
-2017-01-22 15:45:55.8259|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
-2017-01-22 15:45:55.8479|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
-2017-01-22 15:45:55.8599|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
-2017-01-22 15:45:55.8729|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
-2017-01-22 15:45:55.8729|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
-2017-01-22 15:45:58.2663|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
-2017-01-22 15:45:58.2663|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
-2017-01-22 15:45:58.2894|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
-2017-01-22 15:45:58.3034|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
-2017-01-22 15:45:58.3174|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
-2017-01-22 15:45:58.3334|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
-2017-01-22 15:46:22.2637|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
-2017-01-22 15:46:22.2787|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
-2017-01-22 15:46:22.2977|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
-2017-01-22 15:46:22.3117|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
-2017-01-22 15:46:22.3267|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
-2017-01-22 15:46:22.3267|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
-2017-01-22 15:46:22.3547|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
-2017-01-22 15:46:22.3698|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
-2017-01-22 15:46:22.3838|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
-2017-01-22 15:46:22.3978|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
-2017-01-22 15:46:22.4108|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
-2017-01-22 15:46:22.4228|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
-2017-01-22 15:46:22.4228|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
-2017-01-22 15:46:22.4443|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
-2017-01-22 15:46:22.4553|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
-2017-01-22 15:46:22.4673|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
-2017-01-22 15:46:22.4673|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
-2017-01-22 15:46:22.4893|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
-2017-01-22 15:46:22.5014|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
-2017-01-22 15:46:22.5134|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
-2017-01-22 15:46:22.5294|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
-2017-01-22 15:46:22.5294|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
-2017-01-22 15:46:22.5554|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
-2017-01-22 15:46:22.5684|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
-2017-01-22 15:46:22.5814|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
-2017-01-22 15:46:22.5934|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
-2017-01-22 15:46:22.5934|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
-2017-01-22 15:46:22.6175|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
-2017-01-22 15:46:22.6380|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
-2017-01-22 15:46:22.6380|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
-2017-01-22 15:46:22.6620|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
-2017-01-22 15:46:22.6760|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
-2017-01-22 15:46:22.6900|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
-2017-01-22 15:46:22.7050|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
-2017-01-22 15:46:27.2127|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
-2017-01-22 15:46:27.2317|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
-2017-01-22 15:46:27.2508|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
-2017-01-22 15:46:27.2688|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
-2017-01-22 15:46:27.2838|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
-2017-01-22 15:46:27.2988|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
-2017-01-22 15:46:27.3148|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
-2017-01-22 15:46:27.3303|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
-2017-01-22 15:46:27.3453|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
-2017-01-22 15:46:27.3603|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
-2017-01-22 15:46:27.3753|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
-2017-01-22 15:46:27.3884|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
-2017-01-22 15:46:27.3884|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
-2017-01-22 15:46:27.4124|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
-2017-01-22 15:46:27.4234|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
-2017-01-22 15:46:27.4234|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
-2017-01-22 15:46:27.4444|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
-2017-01-22 15:46:27.4554|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
-2017-01-22 15:46:27.4674|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
-2017-01-22 15:46:27.4674|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
-2017-01-22 15:46:27.4929|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
-2017-01-22 15:46:27.5087|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
-2017-01-22 15:46:27.5248|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
-2017-01-22 15:46:27.5368|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
-2017-01-22 15:46:27.5498|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
-2017-01-22 15:46:27.5638|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
-2017-01-22 15:46:27.5638|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
-2017-01-22 15:46:27.5868|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
-2017-01-22 15:46:27.5978|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
-2017-01-22 15:46:27.6178|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
-2017-01-22 15:46:27.6298|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
-2017-01-22 15:46:27.6428|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
-2017-01-22 15:46:27.6568|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
-2017-01-22 15:46:27.6699|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
-2017-01-22 15:46:36.5714|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
-2017-01-22 15:46:36.5905|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
-2017-01-22 15:46:36.6060|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
-2017-01-22 15:46:36.6210|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
-2017-01-22 15:46:36.6350|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
-2017-01-22 15:46:36.6490|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
-2017-01-22 15:46:36.6640|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
-2017-01-22 15:46:36.6790|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
-2017-01-22 15:46:36.6940|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
-2017-01-22 15:46:36.7091|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
-2017-01-22 15:46:36.7230|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
-2017-01-22 15:46:36.7371|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
-2017-01-22 15:46:36.7491|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
-2017-01-22 15:46:36.7491|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
-2017-01-22 15:46:36.7731|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
-2017-01-22 15:46:36.7841|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
-2017-01-22 15:46:36.7951|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
-2017-01-22 15:46:36.7951|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
-2017-01-22 15:46:36.8191|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
-2017-01-22 15:46:36.8311|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
-2017-01-22 15:46:36.8442|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Entering method [Login] with paramters: 
-2017-01-22 15:46:36.8572|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Leaving method [Login] with return value True
-2017-01-22 15:46:36.8572|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
-2017-01-22 15:46:36.8822|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
-2017-01-22 15:46:36.8942|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
-2017-01-22 15:46:36.9052|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
-2017-01-22 15:46:36.9052|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
-2017-01-22 15:46:36.9272|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
-2017-01-22 15:46:36.9392|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
-2017-01-22 15:46:36.9392|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
-2017-01-22 15:46:36.9603|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
-2017-01-22 15:46:36.9713|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
-2017-01-22 15:46:36.9833|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
-2017-01-22 15:46:36.9833|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
-2017-01-22 15:46:37.0093|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
-2017-01-22 15:46:37.0233|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
+2017-01-22 16:15:59.3270|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
+2017-01-22 16:15:59.3470|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
+2017-01-22 16:15:59.3470|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
+2017-01-22 16:15:59.3585|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
+2017-01-22 16:15:59.3585|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
+2017-01-22 16:15:59.3585|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
+2017-01-22 16:15:59.3725|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
+2017-01-22 16:15:59.3725|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
+2017-01-22 16:15:59.3885|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
+2017-01-22 16:15:59.3885|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
+2017-01-22 16:15:59.4316|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
+2017-01-22 16:15:59.4366|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
+2017-01-22 16:15:59.4366|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
+2017-01-22 16:15:59.4366|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
+2017-01-22 16:15:59.4541|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
+2017-01-22 16:15:59.4541|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
+2017-01-22 16:15:59.4701|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
+2017-01-22 16:15:59.4701|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
+2017-01-22 16:15:59.4866|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
+2017-01-22 16:15:59.4976|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
+2017-01-22 16:15:59.5246|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Entering method [Login] with paramters: 
+2017-01-22 16:15:59.5356|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Leaving method [Login] with return value True
+2017-01-22 16:15:59.5466|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
+2017-01-22 16:15:59.5611|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
+2017-01-22 16:15:59.5611|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
+2017-01-22 16:15:59.5847|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
+2017-01-22 16:15:59.5977|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
+2017-01-22 16:15:59.6107|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
+2017-01-22 16:15:59.6237|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
+2017-01-22 16:15:59.6402|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
+2017-01-22 16:16:02.4687|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
+2017-01-22 16:16:02.4687|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
+2017-01-22 16:16:02.4952|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
+2017-01-22 16:16:02.5097|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
+2017-01-22 16:16:02.5227|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
+2017-01-22 16:16:02.5393|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
+2017-01-22 16:16:10.1194|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
+2017-01-22 16:16:10.1339|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
+2017-01-22 16:16:10.1524|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
+2017-01-22 16:16:10.1669|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
+2017-01-22 16:16:10.1819|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
+2017-01-22 16:16:10.1974|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
+2017-01-22 16:16:10.2129|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
+2017-01-22 16:16:10.2294|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
+2017-01-22 16:16:10.2439|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
+2017-01-22 16:16:10.2590|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
+2017-01-22 16:16:10.2715|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
+2017-01-22 16:16:10.2845|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
+2017-01-22 16:16:10.2965|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
+2017-01-22 16:16:10.2965|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
+2017-01-22 16:16:10.3210|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
+2017-01-22 16:16:10.3325|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
+2017-01-22 16:16:10.3440|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
+2017-01-22 16:16:10.3440|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
+2017-01-22 16:16:10.3680|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
+2017-01-22 16:16:10.3810|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
+2017-01-22 16:16:10.3945|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
+2017-01-22 16:16:10.4131|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
+2017-01-22 16:16:10.4271|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
+2017-01-22 16:16:10.4396|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
+2017-01-22 16:16:10.4531|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
+2017-01-22 16:16:10.4661|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
+2017-01-22 16:16:10.4661|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
+2017-01-22 16:16:10.4916|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
+2017-01-22 16:16:10.5146|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
+2017-01-22 16:16:10.5146|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
+2017-01-22 16:16:10.5412|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
+2017-01-22 16:16:10.5552|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
+2017-01-22 16:16:10.5687|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
+2017-01-22 16:16:10.5837|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
+2017-01-22 16:16:17.6769|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecute] with paramters: 
+2017-01-22 16:16:17.6954|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [get_DisableAsyncSupport] with paramters: 
+2017-01-22 16:16:17.7139|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [get_DisableAsyncSupport] with return value False
+2017-01-22 16:16:17.7324|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Initialize] with paramters: 
+2017-01-22 16:16:17.7494|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Initialize] with return value 
+2017-01-22 16:16:17.7659|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [BeginExecuteCore] with paramters: 
+2017-01-22 16:16:17.7810|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateTempDataProvider] with paramters: 
+2017-01-22 16:16:17.7970|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateTempDataProvider] with return value System.Web.Mvc.SessionStateTempDataProvider
+2017-01-22 16:16:17.8135|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [CreateActionInvoker] with paramters: 
+2017-01-22 16:16:17.8305|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [CreateActionInvoker] with return value System.Web.Mvc.Async.AsyncControllerActionInvoker
+2017-01-22 16:16:17.8480|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthentication] with paramters: 
+2017-01-22 16:16:17.8630|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthentication] with return value 
+2017-01-22 16:16:17.8760|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthorization] with paramters: 
+2017-01-22 16:16:17.8881|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthorization] with return value 
+2017-01-22 16:16:17.8881|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuting] with paramters: 
+2017-01-22 16:16:17.9126|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuting] with return value 
+2017-01-22 16:16:17.9231|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecuteCore] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller+ExecuteCoreState]
+2017-01-22 16:16:17.9351|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [BeginExecute] with return value System.Web.Mvc.Async.AsyncResultWrapper+WrappedAsyncVoid`1[System.Web.Mvc.Controller]
+2017-01-22 16:16:17.9351|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecute] with paramters: 
+2017-01-22 16:16:17.9626|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [EndExecuteCore] with paramters: 
+2017-01-22 16:16:17.9766|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Entering method [Login] with paramters: 
+2017-01-22 16:16:17.9906|INFO|WebMvc.Interceptors.LoggingAspect|UserService | Leaving method [Login] with return value True
+2017-01-22 16:16:18.0036|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [View] with paramters: 
+2017-01-22 16:16:18.0166|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [View] with return value System.Web.Mvc.ViewResult
+2017-01-22 16:16:18.0291|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnActionExecuted] with paramters: 
+2017-01-22 16:16:18.0291|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnActionExecuted] with return value 
+2017-01-22 16:16:18.0547|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnAuthenticationChallenge] with paramters: 
+2017-01-22 16:16:18.0667|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnAuthenticationChallenge] with return value 
+2017-01-22 16:16:18.0787|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuting] with paramters: 
+2017-01-22 16:16:18.0787|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuting] with return value 
+2017-01-22 16:16:18.1012|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [OnResultExecuted] with paramters: 
+2017-01-22 16:16:18.1142|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [OnResultExecuted] with return value 
+2017-01-22 16:16:18.1277|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecuteCore] with return value 
+2017-01-22 16:16:18.1397|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [EndExecute] with return value 
+2017-01-22 16:16:18.1397|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Entering method [Dispose] with paramters: 
+2017-01-22 16:16:18.1687|INFO|WebMvc.Interceptors.LoggingAspect|HomeController | Leaving method [Dispose] with return value 
